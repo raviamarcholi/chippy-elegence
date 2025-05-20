@@ -1,4 +1,13 @@
 import { useState } from 'react'
+import Navbar from './components/main/Navbar'
+import Footer from './components/main/Footer'
+import Feature from './components/landing/Feature'
+import FeaturedProducts from './components/landing/FeaturedProduct'
+import Hero from './components/landing/Hero'
+import Testimonials from './components/landing/Testimonials'
+import Newsletter from './components/main/Newsletter'
+import React from 'react'
+import "./App.css"
 
 
 function App() {
@@ -6,7 +15,13 @@ function App() {
 
   return (
     <>
-    <h1 className='text-red-500'>Helllo</h1>
+      <Navbar />
+      <Hero />
+      <Feature />
+      <FeaturedProducts />
+      <Testimonials />
+      <Newsletter />
+      <Footer />
     </>
   )
 }
