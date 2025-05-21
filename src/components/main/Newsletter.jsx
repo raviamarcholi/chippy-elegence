@@ -13,7 +13,7 @@ const Newsletter = () => {
       <input
         type="email"
         placeholder="Your email address"
-        className="flex-grow px-4 py-3 rounded-full focus:outline-none text-[#1a1a1a]"
+        className="flex-grow px-4 bg-white  py-3 rounded-full focus:outline-none text-[#1a1a1a]"
       />
       <button
         type="submit"

@@ -32,7 +32,7 @@ const Testimonials = () => {
               className="w-12 h-12 rounded-full mr-4"
             />
             <div>
-              <h4 className="font-bold">Sarah J.</h4>
+              <h4 className="font-bold">Sara J.</h4>
               <p className="text-gray-600 text-sm secondary-font">
                 Verified Customer
               </p>
@@ -61,7 +61,7 @@ const Testimonials = () => {
               className="w-12 h-12 rounded-full mr-4"
             />
             <div>
-              <h4 className="font-bold">Michael T.</h4>
+              <h4 className="font-bold">Aman T.</h4>
               <p className="text-gray-600 text-sm secondary-font">
                 Verified Customer
               </p>
@@ -90,7 +90,7 @@ const Testimonials = () => {
               className="w-12 h-12 rounded-full mr-4"
             />
             <div>
-              <h4 className="font-bold">Jennifer L.</h4>
+              <h4 className="font-bold">Jiya L.</h4>
               <p className="text-gray-600 text-sm secondary-font">
                 Verified Customer
               </p>

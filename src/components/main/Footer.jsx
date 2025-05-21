@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
       {/* Column 1 */}
       <div>
-        <h3 className="text-xl font-bold mb-4">CHIPPY THREADS</h3>
+        <h3 className="text-xl font-bold mb-4">CHIPPY ELEGENCE</h3>
         <p className="text-gray-400 mb-4 secondary-font">
           Premium quality clothing for the modern individual.
         </p>
@@ -51,20 +51,15 @@ const Footer = () => {
               href="#"
               className="text-gray-400 hover:text-white transition secondary-font"
             >
-              Accessories
-            </a>
-          </li>
-          <li>
-            <a
-              href="#"
-              className="text-gray-400 hover:text-white transition secondary-font"
-            >
-              New Arrivals
+              Children
             </a>
           </li>
         </ul>
       </div>
     </div>
+
+    <hr className='text-orange-400 my-5'/>
+    <div className='text-center'>© Ravi Amarcholi . All Rights Reserved -2025</div>
   </div>
 </footer>
 
